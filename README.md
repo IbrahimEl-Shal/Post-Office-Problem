@@ -20,7 +20,7 @@ which is faster to execute?
 <figure>
  <figcaption>
  <p></p> 
- p style="text-align: center;"> Order of Growth[Max Case]</p> 
+ <p style="text-align: center;"> Order of Growth[Max Case]</p> 
  <img src="Output Images/Order of Growth[Max Case][Old].jpg" width="380" alt="" />
  </figcaption>
 </figure>

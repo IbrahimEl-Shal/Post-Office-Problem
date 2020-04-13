@@ -1,6 +1,8 @@
 ### Post-Office-Problem
 
-![](Output Images/Capture.PNG)
+<figure>
+ <img src="Output Images/Capture.PNG" width="380" alt="Combined Image" />
+</figure>
 
 We have n villages {V0, V1, V2, V3, … ,Vn-1} which have two dimensional coordinates denoted by integer xi
 and yi. A post office needs to be built in one of these villages. All villages are well connected with almost a
@@ -15,25 +17,34 @@ maximum distance from a village to the post office.
 * Which minimization is more suitable for this application, average or maximum distance and why? And
 which is faster to execute?
 
-![](Output Images/Order of Growth[Max Case][Old].jpg)
-![](Output Images/Order of Growth[Avg Case][Old].jpg)
-
-![](Output Images/Order of Growth[Avg Case][Enhanced].jpg)
-![](Output Images/Order of Growth[Max Case][Enhanced].jpg)
-
-
 <figure>
- <img src="Output Images/Order of Growth[Max Case][Old]_.jpg" width="380" alt="Combined Image" />
+ <img src="Output Images/Order of Growth[Max Case][Old].jpg" width="380" alt="Combined Image" />
  <figcaption>
  <p></p> 
- <p style="text-align: center;"> First output after detecting line segments </p> 
+ <p style="text-align: center;"> Order of Growth[Max Case] </p> 
  </figcaption>
 </figure>
  <p></p> 
 <figure>
- <img src="Output Images/Order of Growth[Avg Case][Old]_.jpg" width="380" alt="Combined Image" />
+ <img src="Output Images/Order of Growth[Avg Case][Old].jpg" width="380" alt="Combined Image" />
  <figcaption>
  <p></p> 
- <p style="text-align: center;"> Our enhancement after connect and average line segments to get output like this</p> 
+ <p style="text-align: center;"> Order of Growth[Avg Case]</p> 
+ </figcaption>
+</figure>
+ <p></p> 
+<figure>
+ <img src="Output Images/Order of Growth[Avg Case][Enhanced].jpg" width="380" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ <p style="text-align: center;"> Order of Growth[Avg Case][Enhanced]</p> 
+ </figcaption>
+</figure>
+ <p></p> 
+<figure>
+ <img src="Output Images/Order of Growth[Max Case][Enhanced].jpg" width="380" alt="Combined Image" />
+ <figcaption>
+ <p></p> 
+ <p style="text-align: center;"> Order of Growth[Max Case][Enhanced]</p> 
  </figcaption>
 </figure>

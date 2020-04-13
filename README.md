@@ -1,7 +1,7 @@
 ### Post-Office-Problem
 
 <figure>
- <img src="Output Images/Capture.PNG" width="380" alt="Combined Image" />
+ <img src="Output Images/Capture.png" width="380" alt="Problem" />
 </figure>
 
 We have n villages {V0, V1, V2, V3, … ,Vn-1} which have two dimensional coordinates denoted by integer xi
@@ -18,10 +18,10 @@ maximum distance from a village to the post office.
 which is faster to execute?
 
 <figure>
- <img src="Output Images/Order of Growth[Max Case][Old].jpg" width="380" alt="Combined Image" />
+ <img src="Output Images/Order of Growth[Max Case][Old].jpg" width="380" alt="Order of Growth[Max Case]" />
  <figcaption>
  <p></p> 
- <p style="text-align: center;"> Order of Growth[Max Case] </p> 
+ <p style="text-align: center;">     </p> 
  </figcaption>
 </figure>
  <p></p> 
